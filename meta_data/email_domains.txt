@@ -1,0 +1,6 @@
+abc.edu
+gmail.com
+hotmail.com
+outlook.com
+yahoo.com
+msn.com
