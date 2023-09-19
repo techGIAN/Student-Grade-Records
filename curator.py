@@ -102,7 +102,8 @@ df = pd.DataFrame({
     'email': emails,
     'phone_num' : phone_nums, 
     'gender': genders,
-    'age': ages
+    'age': ages,
+    'cgpa': cgpas
 })
 
 df.to_csv(demographic_filename, index=None)

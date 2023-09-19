@@ -1,251 +1,251 @@
-student_id,first_name,last_name,program,year_level,email,phone_num,gender,age
-651731635,Daniel,Mcpherson,Software Development,3,daniel.mcpherson@abc.edu,(593) 170-3346,M,25
-711089427,Frances,Quintero,Data Analytics,3,frances.quintero@hotmail.com,(840) 711-7665,F,18
-453414440,Joyce,Peck,Statistics,3,joyce.peck@yahoo.com,(719) 171-9409,F,28
-327839322,Doris,Fry,Civil Engineering,2,doris.fry@abc.edu,(942) 376-7759,F,26
-594620547,Evelyn,Allison,Data Analytics,2,evelyn.allison@outlook.com,(189) 586-5810,F,21
-299545255,Willie,Mcbride,Computer Security,3,willie.mcbride@abc.edu,(240) 736-1739,M,25
-878574235,Justin,Zimmerman,Artificial Intelligence,3,justin.zimmerman@abc.edu,(436) 566-3351,M,23
-303096640,Amanda,Glover,Electrical Engineering,3,amanda.glover@abc.edu,(348) 992-2725,F,24
-423786874,Steven,Huang,Geological Engineering,4,steven.huang@abc.edu,(694) 405-2103,M,24
-808330825,Ruth,Mclean,Computer Engineering,3,ruth.mclean@abc.edu,(666) 493-6361,O,23
-865075436,Rebecca,Clarke,Electrical Engineering,3,rebecca.clarke@abc.edu,(226) 141-3596,F,29
-121716200,John,Gillespie,Data Analytics,2,john.gillespie@abc.edu,(545) 647-3739,M,25
-192681162,Wayne,Chung,Computer Security,2,wayne.chung@gmail.com,(256) 503-5173,M,22
-589621273,Zachary,Duke,Digital Media,3,zachary.duke@gmail.com,(284) 723-7829,M,20
-710844963,Peter,Lindsey,Astronomy,3,peter.lindsey@hotmail.com,(708) 840-7745,M,23
-980264135,Jack,Portillo,Electrical Engineering,3,jack.portillo@abc.edu,(452) 699-4593,M,25
-271704214,Lawrence,Logan,Applied Statistics,3,lawrence.logan@abc.edu,(902) 248-5625,M,28
-560872629,Jordan,Wolf,Computer Science,3,jordan.wolf@abc.edu,(382) 134-8550,M,25
-139614390,Grace,Novak,Computer Security,3,grace.novak@gmail.com,(533) 115-5848,F,22
-288183203,Diane,Terrell,Biophysics,3,diane.terrell@hotmail.com,(251) 144-3704,F,21
-880167426,Gregory,Leon,Physics,3,gregory.leon@msn.com,(675) 759-9642,M,28
-493934669,Madison,Skinner,Electrical Engineering,2,madison.skinner@msn.com,(383) 282-8450,F,22
-856618641,Barbara,Ramsey,Applied Statistics,3,barbara.ramsey@abc.edu,(431) 343-8986,F,20
-303345390,Lisa,Dickerson,Mathematics,3,lisa.dickerson@abc.edu,(547) 740-2570,F,29
-889825079,Doris,Schroeder,Biophysics,3,doris.schroeder@outlook.com,(162) 960-5856,F,23
-396536423,Jessica,Austin,Data Analytics,1,jessica.austin@abc.edu,(671) 714-6109,F,22
-681772917,Christopher,Lawson,Computer Engineering,3,christopher.lawson@abc.edu,(299) 728-3115,M,23
-779871192,Angela,Henderson,Data Analytics,2,angela.henderson@abc.edu,(719) 112-9965,F,27
-106786934,Denise,Valencia,Computer Science,2,denise.valencia@yahoo.com,(555) 304-6120,F,29
-976026346,Dennis,Skinner,Mechanical Engineering,3,dennis.skinner@abc.edu,(227) 616-8215,M,21
-392582445,Albert,Ramos,Civil Engineering,3,albert.ramos@abc.edu,(322) 808-3973,M,26
-355620339,Kathryn,Sandoval,Data Analytics,2,kathryn.sandoval@abc.edu,(608) 349-6969,F,26
-742030620,Virginia,Callahan,Data Science,3,virginia.callahan@abc.edu,(783) 958-4700,F,23
-762866370,Virginia,Zhang,Applied Mathematics,2,virginia.zhang@abc.edu,(316) 514-3872,F,24
-834309375,Danielle,Mason,Data Science,2,danielle.mason@yahoo.com,(535) 734-6652,F,29
-613920173,Elizabeth,Campos,Geological Engineering,3,elizabeth.campos@abc.edu,(819) 750-9613,F,25
-584498154,Patricia,Lane,Statistics,2,patricia.lane@yahoo.com,(658) 678-5223,F,29
-399579387,Jeremy,Ayala,Computer Engineering,3,jeremy.ayala@abc.edu,(594) 826-7063,M,26
-103274218,Sara,Ho,Computer Science,3,sara.ho@abc.edu,(325) 207-5490,F,21
-420045150,Zachary,Santiago,Applied Mathematics,4,zachary.santiago@abc.edu,(164) 850-3375,M,20
-385333825,Alexis,Maldonado,Statistics,4,alexis.maldonado@gmail.com,(126) 636-5008,F,24
-971446342,Susan,Trevino,Artificial Intelligence,2,susan.trevino@abc.edu,(141) 427-1197,F,25
-423959707,Adam,Carter,Data Analytics,2,adam.carter@abc.edu,(530) 333-6401,M,23
-721616263,Victoria,Juarez,Software Development,3,victoria.juarez@yahoo.com,(245) 958-2626,O,28
-879731719,Shirley,Lin,Applied Mathematics,2,shirley.lin@abc.edu,(540) 646-4210,F,20
-365082614,Judy,Whitney,Artificial Intelligence,3,judy.whitney@abc.edu,(974) 172-1720,F,24
-474819522,Jacob,Keller,Physics,3,jacob.keller@msn.com,(372) 398-2068,M,22
-786579512,Anthony,Andrade,Applied Mathematics,3,anthony.andrade@yahoo.com,(750) 261-1160,M,24
-623573698,Austin,Morton,Artificial Intelligence,3,austin.morton@abc.edu,(619) 823-3833,M,28
-239453295,Carl,Vargas,Civil Engineering,3,carl.vargas@gmail.com,(897) 587-4766,M,26
-810178988,Megan,Hart,Electrical Engineering,3,megan.hart@hotmail.com,(989) 914-5076,F,22
-740178871,Evelyn,Evans,Electrical Engineering,3,evelyn.evans@yahoo.com,(688) 497-9840,F,23
-995614338,Emma,Johnston,Data Science,3,emma.johnston@abc.edu,(166) 791-7775,F,23
-647252100,Stephen,Mullins,Astronomy,3,stephen.mullins@abc.edu,(420) 758-1909,M,22
-768514454,Frances,Vu,Physics,4,frances.vu@abc.edu,(764) 134-4787,F,20
-442647218,Kathryn,Day,Applied Mathematics,2,kathryn.day@yahoo.com,(785) 460-2624,F,20
-561141008,Roger,Jenkins,Data Analytics,3,roger.jenkins@abc.edu,(759) 388-1513,M,23
-442779925,Mary,Mccarty,Chemical Engineering,4,mary.mccarty@msn.com,(327) 356-1383,F,24
-174026189,Janet,Nolan,Mechanical Engineering,4,janet.nolan@abc.edu,(100) 325-5069,F,30
-242898097,Barbara,Silva,Computer Security,3,barbara.silva@abc.edu,(683) 342-9407,F,21
-102960042,Henry,Wade,Data Science,3,henry.wade@msn.com,(793) 451-4963,M,22
-129685988,Joe,Molina,Data Science,2,joe.molina@abc.edu,(222) 104-6421,M,25
-814350187,Jeffrey,Pruitt,Geological Engineering,4,jeffrey.pruitt@abc.edu,(457) 336-8941,M,21
-446489624,Nicholas,Reyna,Geological Engineering,3,nicholas.reyna@msn.com,(400) 598-6508,M,26
-847764383,James,Zamora,Astronomy,3,james.zamora@abc.edu,(116) 682-1272,M,25
-211150207,Gloria,Logan,Computer Security,2,gloria.logan@gmail.com,(730) 445-8939,F,22
-459037275,Roger,Ross,Computer Engineering,2,roger.ross@outlook.com,(185) 917-7964,M,28
-838919734,Virginia,Lucero,Civil Engineering,3,virginia.lucero@hotmail.com,(327) 224-8893,F,22
-196580019,Dennis,Duarte,Digital Media,3,dennis.duarte@gmail.com,(334) 394-4782,M,22
-961104024,Rebecca,Smith,Data Analytics,2,rebecca.smith@abc.edu,(404) 454-1673,F,24
-710081221,Deborah,Li,Electrical Engineering,3,deborah.li@abc.edu,(184) 256-9962,F,22
-324733372,Gloria,Cummings,Civil Engineering,3,gloria.cummings@hotmail.com,(307) 860-8538,F,24
-844780009,Douglas,Hubbard,Applied Statistics,4,douglas.hubbard@yahoo.com,(402) 415-6940,M,28
-195958365,Helen,Hogan,Electrical Engineering,2,helen.hogan@abc.edu,(920) 165-6068,O,26
-679150470,Cynthia,Esparza,Applied Mathematics,3,cynthia.esparza@gmail.com,(580) 935-8737,F,22
-209233566,Patricia,Montoya,Data Science,4,patricia.montoya@hotmail.com,(309) 851-8380,F,22
-124236099,Lisa,Raymond,Geological Engineering,3,lisa.raymond@abc.edu,(873) 890-4290,O,23
-690552775,Noah,Cain,Chemical Engineering,3,noah.cain@msn.com,(384) 311-2437,M,25
-579899447,Elijah,Graves,Software Development,1,elijah.graves@outlook.com,(876) 591-9809,M,23
-317066621,Judith,Castro,Statistics,3,judith.castro@msn.com,(251) 415-8106,F,23
-804688478,Betty,Moyer,Biophysics,3,betty.moyer@hotmail.com,(441) 319-4262,F,23
-315669950,Maria,Nicholson,Computer Engineering,2,maria.nicholson@abc.edu,(423) 686-6235,F,25
-132525496,Timothy,Simmons,Biophysics,1,timothy.simmons@abc.edu,(593) 832-6159,O,20
-895707951,Carolyn,Wade,Geological Engineering,3,carolyn.wade@abc.edu,(834) 211-5885,F,22
-774301332,Sophia,Austin,Biophysics,2,sophia.austin@abc.edu,(537) 726-2545,F,24
-884502568,Jordan,Mays,Computer Security,4,jordan.mays@outlook.com,(359) 228-7862,M,26
-945413118,William,Ruiz,Physics,3,william.ruiz@abc.edu,(470) 816-1748,M,27
-881672468,Peter,Moyer,Mathematics,3,peter.moyer@outlook.com,(963) 842-4661,O,23
-687790655,Bradley,Jensen,Computer Security,3,bradley.jensen@gmail.com,(851) 248-8627,M,26
-314218397,Linda,Poole,Physics,4,linda.poole@abc.edu,(922) 158-5653,F,22
-904276140,Gary,Faulkner,Computer Engineering,2,gary.faulkner@abc.edu,(717) 353-4147,M,25
-743033636,Randy,Daugherty,Chemical Engineering,1,randy.daugherty@hotmail.com,(224) 634-5528,M,23
-164439860,Victoria,Jones,Mathematics,3,victoria.jones@outlook.com,(181) 351-8499,F,22
-689974766,Kathryn,Waller,Civil Engineering,3,kathryn.waller@msn.com,(534) 267-4280,F,23
-498963655,Jacqueline,Mcdaniel,Biophysics,3,jacqueline.mcdaniel@outlook.com,(940) 788-3602,F,23
-194195534,Emma,Liu,Applied Mathematics,2,emma.liu@msn.com,(612) 788-5377,F,18
-612014772,Kimberly,Compton,Mechanical Engineering,3,kimberly.compton@abc.edu,(539) 899-5359,F,24
-714828848,Kenneth,Orr,Data Science,3,kenneth.orr@gmail.com,(278) 779-2508,M,18
-234629724,Diana,Williamson,Data Analytics,3,diana.williamson@msn.com,(934) 414-6219,F,25
-297500263,Sandra,Hudson,Computer Science,3,sandra.hudson@abc.edu,(806) 311-7645,F,21
-122866687,Ruth,Mckay,Biophysics,3,ruth.mckay@abc.edu,(409) 208-5079,F,26
-313681858,Lawrence,Wagner,Computer Security,1,lawrence.wagner@yahoo.com,(888) 287-5721,M,22
-888807355,Heather,Sierra,Applied Mathematics,4,heather.sierra@yahoo.com,(215) 882-7179,F,27
-306543277,Kevin,Shepard,Applied Statistics,4,kevin.shepard@outlook.com,(587) 615-6046,O,21
-995175916,Heather,Trevino,Artificial Intelligence,4,heather.trevino@outlook.com,(996) 402-8215,F,22
-873049706,Walter,Shaffer,Digital Media,3,walter.shaffer@abc.edu,(520) 536-3737,M,24
-130788925,Frances,Howard,Geological Engineering,3,frances.howard@gmail.com,(778) 290-1668,F,23
-610395019,Jennifer,Chavez,Mechanical Engineering,2,jennifer.chavez@abc.edu,(890) 984-9398,F,23
-976626235,Scott,Sellers,Chemical Engineering,4,scott.sellers@yahoo.com,(764) 205-8623,O,26
-465129949,Beverly,Rosales,Mechanical Engineering,2,beverly.rosales@abc.edu,(573) 628-9660,O,22
-317550140,Austin,Hampton,Artificial Intelligence,3,austin.hampton@outlook.com,(996) 368-1573,M,26
-307375306,Janice,Burke,Biophysics,1,janice.burke@abc.edu,(571) 283-6070,F,25
-139267396,Arthur,Briggs,Computer Science,4,arthur.briggs@hotmail.com,(765) 511-5262,M,25
-130007278,Natalie,Ventura,Civil Engineering,3,natalie.ventura@gmail.com,(181) 465-2742,F,23
-309874544,Teresa,Mcpherson,Digital Media,1,teresa.mcpherson@yahoo.com,(866) 685-5615,F,25
-964841181,Danielle,Mccarthy,Biophysics,2,danielle.mccarthy@gmail.com,(322) 599-3879,O,30
-674547463,Jonathan,Mckenzie,Biophysics,3,jonathan.mckenzie@abc.edu,(757) 128-9036,M,24
-107978739,Jason,Zavala,Mechanical Engineering,1,jason.zavala@abc.edu,(175) 398-1800,M,30
-264727101,Jessica,Velazquez,Electrical Engineering,3,jessica.velazquez@abc.edu,(553) 672-4652,O,23
-501288964,Donald,Tyler,Astronomy,2,donald.tyler@abc.edu,(564) 587-3648,M,23
-749138029,Maria,Mcclain,Data Science,3,maria.mcclain@abc.edu,(512) 298-6054,F,28
-279792425,John,Taylor,Geological Engineering,4,john.taylor@msn.com,(915) 660-2427,M,26
-267567515,Kevin,Evans,Mechanical Engineering,2,kevin.evans@outlook.com,(665) 660-7687,M,26
-271789763,Randy,Blake,Digital Media,1,randy.blake@hotmail.com,(239) 884-9641,O,22
-106042337,Samuel,Patton,Artificial Intelligence,4,samuel.patton@msn.com,(716) 925-5986,M,25
-778967335,Brian,Mccoy,Biophysics,3,brian.mccoy@msn.com,(139) 747-9896,M,27
-575972387,Jacob,Serrano,Chemical Engineering,3,jacob.serrano@gmail.com,(311) 251-7102,O,30
-670475972,Olivia,Mays,Mathematics,2,olivia.mays@gmail.com,(628) 378-4587,F,27
-264753709,Catherine,Contreras,Chemical Engineering,3,catherine.contreras@abc.edu,(220) 907-6690,F,25
-555060978,Jason,Barr,Geological Engineering,3,jason.barr@abc.edu,(778) 343-2765,M,23
-293140010,Carolyn,Bush,Physics,2,carolyn.bush@abc.edu,(605) 221-5196,F,20
-899191707,Maria,Knapp,Geological Engineering,3,maria.knapp@gmail.com,(328) 619-6469,F,27
-173696145,Jessica,Reynolds,Biophysics,3,jessica.reynolds@abc.edu,(445) 701-6020,F,27
-159965418,Christina,Frank,Statistics,2,christina.frank@hotmail.com,(915) 173-7529,F,23
-702701999,Ashley,Hicks,Physics,3,ashley.hicks@hotmail.com,(519) 925-3917,F,20
-688863857,Samuel,Burch,Electrical Engineering,3,samuel.burch@abc.edu,(624) 167-2920,M,23
-123692565,Jason,Diaz,Computer Science,3,jason.diaz@msn.com,(299) 621-5764,M,29
-567154082,Harold,Fox,Data Science,3,harold.fox@hotmail.com,(214) 660-4280,M,28
-601604112,Peter,Garza,Geological Engineering,3,peter.garza@gmail.com,(531) 756-8027,M,23
-341684496,Laura,Hester,Data Science,3,laura.hester@outlook.com,(122) 621-4112,F,27
-879820476,Elizabeth,Hicks,Computer Security,4,elizabeth.hicks@yahoo.com,(537) 974-7951,F,25
-326060649,Alan,Thomas,Computer Engineering,4,alan.thomas@outlook.com,(379) 851-8829,M,21
-193467768,Carolyn,Carr,Mathematics,2,carolyn.carr@yahoo.com,(141) 135-7452,F,29
-116087055,Roger,Magana,Civil Engineering,3,roger.magana@abc.edu,(764) 270-1844,M,23
-669182460,Keith,Dickson,Data Analytics,3,keith.dickson@abc.edu,(940) 252-5802,M,26
-946990160,Stephanie,Noble,Digital Media,2,stephanie.noble@abc.edu,(951) 907-1390,F,24
-110284505,Betty,Fitzgerald,Mechanical Engineering,3,betty.fitzgerald@msn.com,(283) 181-7938,F,24
-111538749,Tyler,Schaefer,Chemical Engineering,3,tyler.schaefer@yahoo.com,(635) 899-3864,M,23
-613953486,Cheryl,Arias,Civil Engineering,1,cheryl.arias@msn.com,(460) 447-7491,F,22
-909625839,Jeffrey,Brandt,Civil Engineering,3,jeffrey.brandt@abc.edu,(914) 453-6155,M,28
-967274306,Christine,Benitez,Chemical Engineering,3,christine.benitez@gmail.com,(402) 491-3555,F,22
-903937373,Terry,Newton,Applied Mathematics,4,terry.newton@yahoo.com,(165) 185-2384,M,26
-541914188,Danielle,Patterson,Astronomy,3,danielle.patterson@abc.edu,(578) 412-7393,F,26
-385114044,Andrea,Andrade,Software Development,3,andrea.andrade@outlook.com,(486) 235-9355,F,27
-392473888,Barbara,Powell,Civil Engineering,3,barbara.powell@gmail.com,(105) 524-9682,F,27
-331871159,Charles,Jacobs,Computer Engineering,3,charles.jacobs@yahoo.com,(827) 412-8496,M,21
-149945471,Keith,Pearson,Computer Engineering,2,keith.pearson@abc.edu,(858) 927-7432,M,25
-812775074,Noah,Dennis,Data Science,4,noah.dennis@abc.edu,(531) 346-2959,M,29
-203932676,Patrick,King,Software Development,4,patrick.king@msn.com,(192) 453-2245,M,22
-142510157,Mark,Holloway,Geological Engineering,3,mark.holloway@outlook.com,(700) 174-4527,M,18
-550658855,David,Alvarez,Statistics,2,david.alvarez@yahoo.com,(255) 226-2688,M,26
-763766182,Paul,Proctor,Geological Engineering,3,paul.proctor@abc.edu,(738) 555-3489,M,23
-854920641,Nancy,Monroe,Data Analytics,2,nancy.monroe@yahoo.com,(850) 549-5781,O,25
-602347547,Gloria,Moses,Digital Media,2,gloria.moses@abc.edu,(638) 961-8653,F,28
-394407482,William,Dickerson,Biophysics,3,william.dickerson@abc.edu,(282) 221-5443,O,26
-783401438,Patricia,Walton,Astronomy,2,patricia.walton@abc.edu,(890) 100-8226,F,23
-673943784,Elizabeth,Acosta,Computer Security,4,elizabeth.acosta@outlook.com,(504) 110-6160,F,21
-713592278,Arthur,Kemp,Physics,2,arthur.kemp@abc.edu,(223) 288-3911,M,22
-302105373,Ryan,Hebert,Physics,3,ryan.hebert@msn.com,(664) 184-3559,M,28
-412550024,Madison,Koch,Software Development,1,madison.koch@abc.edu,(484) 401-2379,F,25
-631907805,Grace,Fleming,Geological Engineering,3,grace.fleming@abc.edu,(725) 144-4600,F,22
-262045574,Isabella,Byrd,Computer Engineering,3,isabella.byrd@outlook.com,(273) 886-3652,F,27
-617570714,Janet,Hogan,Chemical Engineering,3,janet.hogan@abc.edu,(485) 473-4905,F,24
-242828044,Kenneth,Rowe,Data Science,3,kenneth.rowe@abc.edu,(729) 282-2156,M,25
-213430325,Terry,Brewer,Digital Media,4,terry.brewer@abc.edu,(186) 571-2421,M,22
-282092883,Stephanie,Vang,Digital Media,2,stephanie.vang@abc.edu,(569) 607-3689,F,22
-222651898,Dorothy,Dalton,Computer Security,4,dorothy.dalton@abc.edu,(937) 129-7870,F,22
-800414124,Hannah,Conway,Mathematics,2,hannah.conway@gmail.com,(841) 526-5864,F,22
-818852307,Lauren,Sparks,Astronomy,3,lauren.sparks@abc.edu,(210) 613-6456,F,27
-850126986,Samuel,Frank,Mathematics,4,samuel.frank@abc.edu,(881) 645-3418,M,27
-887225910,Angela,Le,Data Analytics,3,angela.le@abc.edu,(433) 385-7544,F,23
-472358198,Barbara,Rangel,Digital Media,3,barbara.rangel@abc.edu,(447) 501-9693,O,27
-441844416,Larry,Adams,Chemical Engineering,3,larry.adams@msn.com,(643) 512-2641,M,19
-346250447,Virginia,Perkins,Astronomy,3,virginia.perkins@abc.edu,(377) 494-9494,F,26
-728104305,Jerry,Howell,Mechanical Engineering,2,jerry.howell@yahoo.com,(726) 909-2862,M,27
-905326790,Angela,Foster,Electrical Engineering,3,angela.foster@abc.edu,(847) 526-6104,F,19
-807090917,Henry,Santos,Applied Mathematics,2,henry.santos@outlook.com,(516) 372-2315,M,25
-222023218,Amanda,Swanson,Chemical Engineering,3,amanda.swanson@abc.edu,(104) 740-1009,F,29
-170902168,Kelly,Wagner,Physics,2,kelly.wagner@outlook.com,(891) 814-2914,O,24
-763532694,Brenda,Yang,Chemical Engineering,3,brenda.yang@abc.edu,(755) 266-1381,F,29
-247070937,Brandon,Quinn,Biophysics,3,brandon.quinn@outlook.com,(746) 197-5236,M,30
-994395423,Kathleen,Hale,Artificial Intelligence,3,kathleen.hale@yahoo.com,(570) 767-5344,F,22
-254247666,Rebecca,Bautista,Chemical Engineering,2,rebecca.bautista@abc.edu,(266) 877-2374,F,22
-823155483,Laura,Brooks,Computer Engineering,2,laura.brooks@yahoo.com,(420) 768-8822,F,25
-944286017,Paul,Harrison,Mathematics,4,paul.harrison@abc.edu,(697) 365-4732,M,27
-948236500,Linda,Bernal,Mathematics,3,linda.bernal@hotmail.com,(219) 579-9206,F,23
-958081174,Abigail,Rich,Applied Mathematics,3,abigail.rich@abc.edu,(295) 331-4744,F,28
-756773373,Sarah,Faulkner,Statistics,2,sarah.faulkner@outlook.com,(443) 653-6375,F,24
-283140184,William,Galindo,Data Science,3,william.galindo@abc.edu,(507) 315-3186,M,24
-813896272,Juan,Raymond,Artificial Intelligence,3,juan.raymond@abc.edu,(955) 794-5832,M,26
-867152247,Barbara,Frost,Computer Security,1,barbara.frost@gmail.com,(220) 911-2703,O,23
-904457846,Hannah,Roman,Data Science,2,hannah.roman@abc.edu,(253) 950-2181,F,21
-781064756,Dennis,Rubio,Chemical Engineering,3,dennis.rubio@abc.edu,(808) 870-1666,M,22
-310511889,Billy,Byrd,Computer Security,2,billy.byrd@abc.edu,(788) 121-9872,M,21
-141336954,Nicole,Dawson,Geological Engineering,3,nicole.dawson@outlook.com,(183) 248-9182,F,27
-253863724,Sara,Travis,Mathematics,3,sara.travis@abc.edu,(865) 604-4557,F,24
-513454548,Kayla,Rogers,Computer Security,3,kayla.rogers@hotmail.com,(687) 921-1188,F,25
-159554670,Maria,Liu,Applied Statistics,3,maria.liu@abc.edu,(416) 773-2734,F,27
-997484998,Laura,Villegas,Data Science,3,laura.villegas@gmail.com,(498) 812-6303,F,18
-234004596,Kelly,Shaffer,Computer Security,3,kelly.shaffer@msn.com,(379) 375-4383,F,26
-545966593,Amber,Stevens,Chemical Engineering,4,amber.stevens@abc.edu,(342) 321-8683,O,21
-444626182,Douglas,Webb,Mathematics,3,douglas.webb@abc.edu,(265) 525-2351,M,19
-310618102,Beverly,Manning,Software Development,3,beverly.manning@abc.edu,(131) 864-4633,O,23
-268461912,Christine,Bowman,Biophysics,3,christine.bowman@abc.edu,(214) 459-6612,F,23
-577333720,Charles,Suarez,Applied Statistics,3,charles.suarez@abc.edu,(184) 124-9949,M,25
-567497707,Martha,Hawkins,Geological Engineering,3,martha.hawkins@abc.edu,(993) 840-4689,F,20
-892659141,Kelly,Washington,Digital Media,3,kelly.washington@gmail.com,(886) 617-4092,F,27
-797277940,Denise,Odonnell,Statistics,3,denise.odonnell@abc.edu,(881) 180-7805,O,25
-413259234,Rebecca,Mcdowell,Data Science,3,rebecca.mcdowell@msn.com,(394) 433-4464,F,21
-394400923,Sarah,Powell,Geological Engineering,3,sarah.powell@gmail.com,(881) 369-5977,F,24
-901813880,Kathryn,Snow,Digital Media,3,kathryn.snow@outlook.com,(406) 877-4769,F,25
-427010201,Mason,Monroe,Civil Engineering,3,mason.monroe@abc.edu,(966) 836-2976,O,25
-360913571,Barbara,Floyd,Astronomy,3,barbara.floyd@abc.edu,(245) 623-2881,F,23
-831158532,Kyle,Ponce,Software Development,2,kyle.ponce@hotmail.com,(499) 267-9196,M,23
-341039592,Rachel,Short,Applied Mathematics,4,rachel.short@yahoo.com,(637) 681-9414,F,22
-621785534,Debra,Black,Computer Security,2,debra.black@abc.edu,(903) 731-1865,F,23
-895129614,Patricia,Madden,Biophysics,1,patricia.madden@hotmail.com,(158) 371-2054,F,23
-811939685,Lisa,Castaneda,Mechanical Engineering,3,lisa.castaneda@hotmail.com,(310) 121-6403,O,27
-449775128,George,Roman,Digital Media,1,george.roman@abc.edu,(681) 817-7565,M,25
-627899712,Charlotte,Mills,Electrical Engineering,3,charlotte.mills@abc.edu,(800) 555-3370,F,25
-748394806,Gloria,Haynes,Chemical Engineering,4,gloria.haynes@yahoo.com,(659) 390-4407,F,23
-925236185,Matthew,Davidson,Data Science,3,matthew.davidson@abc.edu,(134) 638-7531,M,21
-380935555,Charles,Mathis,Data Analytics,4,charles.mathis@yahoo.com,(550) 237-4949,M,27
-523646149,Christina,Short,Chemical Engineering,3,christina.short@abc.edu,(497) 775-3368,F,25
-524657812,Justin,Robertson,Civil Engineering,4,justin.robertson@abc.edu,(938) 880-8262,M,23
-707102606,Nicole,Watson,Chemical Engineering,3,nicole.watson@gmail.com,(941) 991-3580,O,25
-511740065,Ashley,Medrano,Computer Science,4,ashley.medrano@abc.edu,(549) 321-3605,F,22
-317751883,Russell,Gallegos,Applied Statistics,4,russell.gallegos@abc.edu,(753) 538-2200,M,29
-563736332,Terry,Vu,Electrical Engineering,3,terry.vu@abc.edu,(135) 280-6037,M,22
-613531978,Megan,Santana,Geological Engineering,3,megan.santana@outlook.com,(315) 768-6200,F,25
-821084772,Barbara,Hunt,Statistics,3,barbara.hunt@abc.edu,(749) 306-6005,O,23
-283037943,Helen,Blankenship,Physics,3,helen.blankenship@hotmail.com,(611) 684-8165,F,23
-704828690,Maria,Villanueva,Electrical Engineering,4,maria.villanueva@abc.edu,(776) 966-4086,F,25
-482482593,Joan,Frederick,Physics,2,joan.frederick@abc.edu,(145) 363-9877,F,25
-914067583,Judith,Chapman,Artificial Intelligence,2,judith.chapman@outlook.com,(538) 187-7766,F,27
-274874675,John,Nielsen,Software Development,3,john.nielsen@abc.edu,(606) 450-1058,M,22
-342076732,Sandra,James,Mathematics,3,sandra.james@yahoo.com,(106) 685-6169,F,27
-881710683,Kayla,Truong,Artificial Intelligence,2,kayla.truong@hotmail.com,(991) 535-8685,F,18
-857310853,Kathryn,Lindsey,Civil Engineering,3,kathryn.lindsey@hotmail.com,(292) 728-7830,F,23
-298963405,Hannah,Dunlap,Biophysics,1,hannah.dunlap@msn.com,(614) 659-3846,F,27
+student_id,first_name,last_name,program,year_level,email,phone_num,gender,age,cgpa
+741409505,Lisa,Morris,Mechanical Engineering,3,lisa.morris@abc.edu,(497) 526-4513,F,25,7.55
+166550819,Jesse,Colon,Electrical Engineering,2,jesse.colon@abc.edu,(571) 535-7934,M,27,5.8
+842928803,Jeremy,Galvan,Computer Engineering,4,jeremy.galvan@abc.edu,(502) 696-1337,M,26,7.02
+121026116,Brandon,Wilson,Artificial Intelligence,3,brandon.wilson@yahoo.com,(947) 312-4255,M,24,7.46
+243973181,Kimberly,Kirby,Mechanical Engineering,2,kimberly.kirby@hotmail.com,(176) 601-2177,O,29,6.39
+648897404,David,Kramer,Mechanical Engineering,3,david.kramer@abc.edu,(406) 536-3886,M,21,7.46
+441183872,Alice,Weiss,Applied Statistics,2,alice.weiss@abc.edu,(944) 671-4706,F,27,7.8
+940366015,Gregory,Gutierrez,Statistics,4,gregory.gutierrez@abc.edu,(135) 932-1969,M,22,7.48
+996675949,Jose,Avery,Computer Security,3,jose.avery@abc.edu,(804) 753-3171,M,25,7.35
+613649044,Daniel,Mcconnell,Data Science,3,daniel.mcconnell@abc.edu,(826) 102-1908,M,25,6.68
+697449950,Margaret,Knapp,Computer Science,3,margaret.knapp@hotmail.com,(845) 377-9078,F,28,8.27
+816697185,Amanda,Garza,Applied Mathematics,3,amanda.garza@abc.edu,(903) 657-2971,O,23,7.62
+309851373,Linda,Prince,Computer Science,3,linda.prince@abc.edu,(922) 919-5329,O,26,6.92
+230841602,Anthony,Whitehead,Astronomy,3,anthony.whitehead@abc.edu,(683) 710-5110,M,24,7.4
+112585242,Steven,Walters,Artificial Intelligence,3,steven.walters@hotmail.com,(439) 718-9448,M,24,7.0
+639247849,Jerry,Cummings,Applied Mathematics,3,jerry.cummings@yahoo.com,(268) 777-8671,M,19,7.6
+772571191,Walter,Whitaker,Computer Science,3,walter.whitaker@yahoo.com,(789) 576-4890,M,22,8.12
+439177775,Ann,Mcgee,Software Development,3,ann.mcgee@abc.edu,(720) 112-6789,F,25,7.66
+825924223,Judy,Compton,Digital Media,2,judy.compton@outlook.com,(749) 970-7769,F,22,8.62
+778711926,Bradley,Marsh,Astronomy,1,bradley.marsh@yahoo.com,(574) 149-8437,M,26,7.32
+778809645,James,Humphrey,Software Development,4,james.humphrey@abc.edu,(267) 960-3654,M,24,7.23
+213687024,Melissa,Shannon,Computer Engineering,4,melissa.shannon@gmail.com,(979) 793-1719,F,20,7.81
+930198107,Lawrence,Cohen,Applied Statistics,2,lawrence.cohen@msn.com,(394) 775-9355,O,27,7.61
+147081110,Christina,Whitehead,Digital Media,3,christina.whitehead@abc.edu,(984) 259-6879,F,27,6.58
+476501511,Alexis,Snyder,Mechanical Engineering,3,alexis.snyder@msn.com,(497) 375-5484,O,22,7.73
+692149055,Heather,Becker,Applied Statistics,3,heather.becker@yahoo.com,(806) 568-7798,F,27,7.76
+857550903,Edward,Finley,Physics,3,edward.finley@abc.edu,(497) 927-1823,M,18,7.72
+646417956,Sarah,Stephenson,Computer Security,3,sarah.stephenson@msn.com,(189) 842-5509,F,23,7.75
+839692506,Mary,Zamora,Computer Science,2,mary.zamora@yahoo.com,(803) 939-5410,F,19,7.01
+597928728,Rebecca,Jarvis,Applied Mathematics,3,rebecca.jarvis@abc.edu,(383) 993-6441,F,29,7.93
+470274319,Samuel,Garrison,Digital Media,3,samuel.garrison@abc.edu,(363) 212-1463,M,24,7.97
+427892728,Andrea,Dorsey,Astronomy,3,andrea.dorsey@abc.edu,(245) 308-1121,F,23,7.7
+750002093,Andrea,Arroyo,Mechanical Engineering,3,andrea.arroyo@outlook.com,(479) 285-2403,F,23,7.37
+164357426,Juan,Berry,Astronomy,4,juan.berry@abc.edu,(942) 209-3196,M,21,7.01
+556572498,Doris,Summers,Applied Mathematics,2,doris.summers@yahoo.com,(512) 894-6879,F,23,7.18
+196337710,Christine,Dudley,Applied Statistics,3,christine.dudley@gmail.com,(283) 781-9142,F,29,7.66
+327619621,Victoria,Campbell,Electrical Engineering,2,victoria.campbell@abc.edu,(572) 559-5859,F,24,6.7
+873553410,Ann,Mejia,Computer Engineering,3,ann.mejia@gmail.com,(770) 623-7895,F,25,7.25
+979956440,Kenneth,Jackson,Digital Media,1,kenneth.jackson@outlook.com,(888) 240-8437,M,24,7.54
+399075189,Linda,Myers,Biophysics,4,linda.myers@abc.edu,(841) 994-6552,F,25,7.43
+421918114,Joseph,Herrera,Physics,3,joseph.herrera@gmail.com,(320) 620-8809,M,18,7.92
+521060687,Brenda,Galvan,Astronomy,3,brenda.galvan@abc.edu,(813) 575-9405,F,26,8.11
+730638261,Eugene,Brandt,Software Development,2,eugene.brandt@yahoo.com,(777) 338-1439,O,23,7.58
+611481869,Sandra,Acosta,Applied Mathematics,2,sandra.acosta@outlook.com,(189) 935-3736,O,21,7.83
+761118168,Donna,Becker,Electrical Engineering,3,donna.becker@abc.edu,(513) 969-2704,F,27,7.94
+226851210,Janice,Livingston,Chemical Engineering,3,janice.livingston@outlook.com,(928) 640-8319,F,26,6.91
+593415200,Michael,Dunlap,Digital Media,4,michael.dunlap@abc.edu,(368) 297-4234,O,25,7.86
+201254718,Danielle,Alexander,Digital Media,2,danielle.alexander@abc.edu,(339) 174-1131,F,18,7.27
+391323223,Ashley,Hughes,Software Development,3,ashley.hughes@outlook.com,(316) 565-5481,F,19,7.03
+607236889,Doris,Hubbard,Computer Security,2,doris.hubbard@abc.edu,(235) 762-2147,F,25,7.73
+577537507,John,Yates,Computer Science,1,john.yates@abc.edu,(905) 216-1321,M,26,7.85
+801629187,Dennis,Colon,Artificial Intelligence,3,dennis.colon@gmail.com,(143) 470-1525,M,26,7.54
+830648037,Zachary,Baxter,Applied Statistics,2,zachary.baxter@msn.com,(831) 272-9466,M,27,6.9
+276775233,Timothy,Solis,Artificial Intelligence,3,timothy.solis@yahoo.com,(365) 159-9302,M,21,8.24
+337938230,Victoria,Pruitt,Geological Engineering,1,victoria.pruitt@abc.edu,(964) 313-5957,F,25,8.07
+124973030,Heather,Glenn,Software Development,2,heather.glenn@abc.edu,(504) 257-6832,F,25,7.09
+302439627,James,Rivers,Astronomy,2,james.rivers@gmail.com,(185) 587-1385,M,23,7.47
+135822943,Scott,Mercado,Physics,3,scott.mercado@abc.edu,(140) 656-5365,O,28,7.85
+824972140,Debra,Gibbs,Statistics,3,debra.gibbs@abc.edu,(872) 817-9541,F,22,7.1
+469327676,Madison,Short,Applied Mathematics,2,madison.short@hotmail.com,(911) 615-5510,F,22,7.12
+812252932,Martha,Grant,Astronomy,4,martha.grant@gmail.com,(315) 885-8314,F,22,8.16
+147105252,Virginia,Peck,Computer Security,3,virginia.peck@abc.edu,(427) 463-8131,F,28,7.41
+559279554,Mary,Solis,Statistics,3,mary.solis@gmail.com,(426) 223-9583,F,26,8.28
+302128766,Walter,Green,Digital Media,4,walter.green@abc.edu,(505) 601-3648,M,25,6.78
+531012677,Justin,Brennan,Mechanical Engineering,2,justin.brennan@gmail.com,(757) 950-9677,M,21,7.32
+140215932,Alan,Patterson,Computer Engineering,3,alan.patterson@yahoo.com,(756) 414-6500,M,22,7.04
+686683009,Richard,Lim,Chemical Engineering,2,richard.lim@gmail.com,(113) 544-7869,M,27,7.33
+418697877,Philip,Callahan,Statistics,2,philip.callahan@outlook.com,(787) 417-8600,M,27,7.88
+383230831,Carol,Ali,Data Science,2,carol.ali@msn.com,(287) 672-7612,F,26,7.01
+297735466,Andrea,Cantu,Computer Security,2,andrea.cantu@hotmail.com,(898) 798-1598,F,25,7.92
+361889196,Amy,Griffin,Computer Science,3,amy.griffin@abc.edu,(711) 599-1574,F,25,8.17
+989085025,Pamela,Mahoney,Physics,3,pamela.mahoney@abc.edu,(423) 961-8741,F,28,7.49
+921580585,Raymond,Love,Computer Science,3,raymond.love@abc.edu,(826) 307-5696,M,24,7.43
+914116001,Stephanie,Santiago,Physics,3,stephanie.santiago@outlook.com,(872) 225-5063,F,21,6.97
+477821981,Lisa,Flores,Physics,4,lisa.flores@abc.edu,(251) 125-5710,F,26,7.15
+781078908,Sandra,Hudson,Computer Science,4,sandra.hudson@abc.edu,(562) 948-5978,F,21,7.71
+629083507,Russell,Correa,Applied Statistics,3,russell.correa@yahoo.com,(535) 184-4660,M,26,7.93
+414335642,Marilyn,Zamora,Civil Engineering,2,marilyn.zamora@abc.edu,(226) 695-3283,F,29,7.93
+927067899,Zachary,Hawkins,Artificial Intelligence,3,zachary.hawkins@abc.edu,(382) 660-8701,M,20,7.71
+467664607,Olivia,Hardy,Physics,3,olivia.hardy@abc.edu,(161) 668-1970,F,25,7.25
+605803437,Eugene,Odonnell,Applied Mathematics,3,eugene.odonnell@abc.edu,(330) 921-6240,M,26,8.02
+334190093,Jack,Ortiz,Software Development,3,jack.ortiz@abc.edu,(518) 964-6325,M,21,7.97
+539723795,Douglas,Bennett,Biophysics,4,douglas.bennett@abc.edu,(655) 304-3216,M,21,7.88
+776636852,Jesse,Sanchez,Electrical Engineering,3,jesse.sanchez@abc.edu,(667) 634-2040,M,25,6.01
+603625373,Scott,Garcia,Software Development,3,scott.garcia@outlook.com,(241) 994-7382,M,21,6.94
+216449176,Patrick,Decker,Computer Engineering,4,patrick.decker@abc.edu,(386) 972-4159,M,23,8.12
+360896225,Margaret,Wolfe,Statistics,3,margaret.wolfe@abc.edu,(548) 600-2290,F,24,6.77
+234490559,Jordan,Tran,Computer Security,3,jordan.tran@yahoo.com,(814) 795-8581,M,21,7.32
+604606135,Kelly,Kerr,Data Analytics,2,kelly.kerr@abc.edu,(778) 824-8075,F,22,6.89
+586418418,Mary,Gilmore,Applied Statistics,2,mary.gilmore@yahoo.com,(901) 852-5389,F,18,7.54
+214061086,Madison,Rice,Data Analytics,3,madison.rice@abc.edu,(888) 636-4006,F,26,7.62
+454729825,Bradley,Kaur,Chemical Engineering,3,bradley.kaur@gmail.com,(905) 774-3369,M,21,6.93
+290208350,Russell,Hill,Electrical Engineering,1,russell.hill@abc.edu,(837) 407-2913,M,26,8.52
+691858261,Peter,Martin,Applied Statistics,4,peter.martin@abc.edu,(944) 167-5155,M,19,6.86
+928470782,Kelly,Rosario,Data Science,3,kelly.rosario@gmail.com,(611) 290-9067,F,29,6.84
+313842144,Alice,Espinosa,Digital Media,3,alice.espinosa@abc.edu,(171) 811-7799,F,25,8.05
+115837634,Martha,Terry,Mechanical Engineering,3,martha.terry@abc.edu,(853) 171-6283,F,26,7.75
+733647131,Roger,Snow,Digital Media,3,roger.snow@yahoo.com,(869) 931-8537,M,19,7.51
+389176342,Larry,Durham,Civil Engineering,2,larry.durham@msn.com,(260) 899-8998,M,26,7.1
+977383993,Dylan,Harding,Civil Engineering,4,dylan.harding@abc.edu,(219) 442-9983,M,27,7.28
+461451516,Bobby,Nolan,Electrical Engineering,2,bobby.nolan@abc.edu,(118) 739-8101,M,22,8.32
+743917915,Jesse,Sampson,Computer Science,3,jesse.sampson@abc.edu,(158) 664-2328,M,27,7.53
+518121753,Katherine,Whitehead,Mechanical Engineering,2,katherine.whitehead@abc.edu,(751) 329-9896,F,30,8.38
+879129338,Patricia,Moran,Digital Media,3,patricia.moran@msn.com,(281) 365-1555,O,22,7.49
+163279740,Kevin,Turner,Biophysics,3,kevin.turner@abc.edu,(165) 636-3123,M,23,7.06
+105492788,George,Duke,Biophysics,3,george.duke@msn.com,(369) 609-4625,M,23,7.27
+480136294,Sean,Moody,Computer Engineering,1,sean.moody@abc.edu,(386) 880-7398,M,27,7.05
+940697363,Janice,Obrien,Applied Mathematics,2,janice.obrien@outlook.com,(798) 606-8190,F,27,7.3
+477525567,Elizabeth,Ramsey,Civil Engineering,3,elizabeth.ramsey@outlook.com,(683) 924-1517,F,18,7.43
+698829068,Christopher,Leonard,Applied Mathematics,3,christopher.leonard@outlook.com,(201) 351-6435,M,26,7.48
+112933422,Anthony,Dawson,Applied Statistics,3,anthony.dawson@abc.edu,(474) 282-3990,M,25,8.21
+593231810,Catherine,Crawford,Data Analytics,3,catherine.crawford@abc.edu,(222) 985-3622,F,23,7.49
+222709813,David,Bernal,Data Analytics,3,david.bernal@outlook.com,(296) 792-5937,M,25,7.08
+334788047,Jonathan,Cameron,Mechanical Engineering,1,jonathan.cameron@msn.com,(895) 423-1919,M,24,7.16
+173784221,Virginia,Sanchez,Data Science,3,virginia.sanchez@abc.edu,(416) 164-8666,F,23,8.23
+146979648,Doris,Perry,Statistics,2,doris.perry@abc.edu,(641) 418-7102,F,20,7.54
+720274784,Ronald,Mccarty,Mechanical Engineering,2,ronald.mccarty@abc.edu,(165) 222-1003,M,25,7.62
+765991690,Elijah,Phillips,Mathematics,2,elijah.phillips@abc.edu,(931) 617-7102,M,21,7.39
+450925624,Bruce,Castro,Chemical Engineering,3,bruce.castro@abc.edu,(846) 103-1182,M,22,7.49
+467915198,Dorothy,Cervantes,Data Analytics,2,dorothy.cervantes@abc.edu,(946) 715-8330,F,26,6.83
+221778646,Lisa,Meza,Statistics,3,lisa.meza@yahoo.com,(509) 569-9116,F,28,7.24
+488329539,Randy,Robertson,Statistics,2,randy.robertson@abc.edu,(343) 117-8318,M,25,7.11
+758734534,Abigail,Jensen,Artificial Intelligence,3,abigail.jensen@abc.edu,(891) 736-7336,F,25,6.9
+493494400,Samuel,Ponce,Computer Engineering,4,samuel.ponce@abc.edu,(240) 279-4093,M,27,8.22
+145127616,Natalie,Frank,Statistics,4,natalie.frank@abc.edu,(494) 996-1941,F,24,7.68
+677974469,Doris,Avalos,Mathematics,4,doris.avalos@outlook.com,(811) 129-8610,F,25,7.79
+537981648,Beverly,Sweeney,Data Science,1,beverly.sweeney@gmail.com,(858) 361-4003,O,28,6.88
+252397667,Alexis,Tate,Computer Engineering,2,alexis.tate@abc.edu,(491) 206-4415,F,26,7.14
+796197492,Rebecca,Tanner,Computer Engineering,3,rebecca.tanner@msn.com,(861) 200-4102,O,27,7.7
+452513143,Jason,Simmons,Mathematics,3,jason.simmons@abc.edu,(644) 954-1047,M,23,7.07
+197967446,Karen,Summers,Astronomy,3,karen.summers@abc.edu,(589) 505-3992,F,21,7.75
+648864945,Hannah,Potter,Biophysics,3,hannah.potter@outlook.com,(306) 253-5466,F,25,7.05
+910232032,Jack,Beasley,Computer Science,2,jack.beasley@abc.edu,(778) 721-7445,M,25,6.54
+356389357,Diane,Ayers,Data Analytics,3,diane.ayers@gmail.com,(929) 387-5903,O,28,7.22
+794684717,Billy,Conner,Mechanical Engineering,4,billy.conner@abc.edu,(135) 253-2164,M,26,8.05
+506809716,Linda,Crane,Software Development,1,linda.crane@outlook.com,(661) 541-7550,F,20,7.62
+518721530,Gregory,Mayer,Software Development,3,gregory.mayer@abc.edu,(384) 491-5490,M,25,7.58
+613282308,Sophia,Ward,Computer Science,4,sophia.ward@hotmail.com,(634) 852-3470,F,22,7.4
+360146845,Gabriel,Dyer,Data Science,3,gabriel.dyer@abc.edu,(562) 910-6505,M,24,8.14
+224419444,Debra,Yoder,Data Science,3,debra.yoder@hotmail.com,(170) 748-6808,O,22,7.63
+299836053,Juan,Buck,Artificial Intelligence,3,juan.buck@abc.edu,(956) 943-4943,M,22,6.25
+943001124,Julie,Pitts,Computer Engineering,2,julie.pitts@abc.edu,(636) 807-8430,O,28,7.46
+637655164,Margaret,Flores,Computer Engineering,3,margaret.flores@abc.edu,(934) 711-9035,F,25,8.36
+801936908,John,Martin,Data Analytics,4,john.martin@gmail.com,(560) 788-4124,M,20,7.46
+165749503,James,Diaz,Geological Engineering,3,james.diaz@abc.edu,(133) 278-1661,M,29,8.93
+667500698,Jesse,Flynn,Statistics,3,jesse.flynn@abc.edu,(803) 626-3139,O,22,7.61
+158914963,Benjamin,Yoder,Physics,2,benjamin.yoder@msn.com,(302) 687-3957,M,23,7.75
+778082545,Brandon,Zavala,Astronomy,3,brandon.zavala@yahoo.com,(408) 790-5178,M,26,7.03
+956196718,Gerald,Dixon,Data Science,3,gerald.dixon@yahoo.com,(484) 417-2841,M,23,6.93
+124681830,Andrew,Vance,Computer Science,2,andrew.vance@abc.edu,(486) 783-3478,M,23,7.58
+554149854,Kevin,Mcintosh,Mechanical Engineering,3,kevin.mcintosh@yahoo.com,(578) 959-4394,M,23,8.0
+739862946,David,Montoya,Geological Engineering,2,david.montoya@outlook.com,(965) 684-5088,M,22,7.69
+986050459,Aaron,Sims,Computer Science,1,aaron.sims@abc.edu,(215) 111-8668,O,28,7.51
+727617495,Lawrence,Duran,Biophysics,3,lawrence.duran@abc.edu,(416) 653-6797,M,25,7.34
+312847714,Brenda,Flores,Electrical Engineering,3,brenda.flores@abc.edu,(192) 392-8937,F,27,7.15
+818178897,Donald,Harrison,Electrical Engineering,3,donald.harrison@hotmail.com,(492) 926-3632,M,19,8.05
+614532708,Raymond,Guzman,Geological Engineering,2,raymond.guzman@gmail.com,(912) 219-7033,M,23,7.52
+271522930,Kyle,Lynch,Chemical Engineering,3,kyle.lynch@yahoo.com,(425) 774-2348,M,20,7.14
+626810601,Thomas,Sparks,Geological Engineering,3,thomas.sparks@abc.edu,(719) 904-7516,M,21,6.89
+473825714,Kenneth,Lara,Computer Engineering,3,kenneth.lara@abc.edu,(384) 183-2673,M,25,6.59
+818134958,Karen,Reynolds,Geological Engineering,3,karen.reynolds@yahoo.com,(504) 955-7486,F,21,8.23
+766299232,Keith,Drake,Data Science,3,keith.drake@abc.edu,(858) 957-4099,M,23,6.89
+244055300,Kathleen,Mcdowell,Data Analytics,3,kathleen.mcdowell@abc.edu,(396) 334-2830,F,28,7.5
+877197653,Logan,Alexander,Applied Mathematics,3,logan.alexander@msn.com,(217) 350-7365,M,25,7.34
+600916656,Ethan,Rowland,Civil Engineering,3,ethan.rowland@abc.edu,(838) 883-3051,M,27,7.33
+971027671,Betty,Parker,Artificial Intelligence,4,betty.parker@abc.edu,(402) 427-2735,F,24,7.36
+786320261,Brandon,Branch,Artificial Intelligence,3,brandon.branch@abc.edu,(414) 913-8372,M,20,7.95
+110019694,George,Benson,Mechanical Engineering,3,george.benson@abc.edu,(518) 590-7484,M,26,7.57
+379908997,Thomas,Barton,Geological Engineering,4,thomas.barton@abc.edu,(422) 474-2175,M,20,7.16
+459616472,Joan,Cline,Mathematics,3,joan.cline@gmail.com,(309) 703-7393,F,26,7.54
+783560840,Deborah,Strong,Computer Science,4,deborah.strong@abc.edu,(280) 221-8258,F,25,7.24
+762539395,Denise,Mccarty,Computer Security,3,denise.mccarty@msn.com,(634) 688-1507,O,28,6.95
+786382903,Keith,Blanchard,Software Development,1,keith.blanchard@abc.edu,(865) 455-8336,M,23,8.02
+233945195,Donna,Byrd,Software Development,1,donna.byrd@abc.edu,(815) 425-6611,F,19,7.8
+555110059,Charlotte,Becker,Computer Science,3,charlotte.becker@abc.edu,(473) 537-2054,F,21,7.52
+531854984,Philip,Cook,Computer Science,3,philip.cook@abc.edu,(330) 437-5178,M,25,6.76
+873612012,Jean,Burton,Applied Statistics,4,jean.burton@abc.edu,(876) 137-5267,F,23,7.63
+287854224,Aaron,Spence,Software Development,3,aaron.spence@abc.edu,(917) 320-2150,M,23,7.61
+276936575,Theresa,Atkinson,Computer Engineering,3,theresa.atkinson@abc.edu,(789) 923-8022,F,22,7.83
+307068925,Joe,Shah,Electrical Engineering,4,joe.shah@abc.edu,(908) 648-8032,M,24,7.72
+470459038,Ralph,Solis,Physics,3,ralph.solis@abc.edu,(920) 784-4035,M,21,7.56
+374154428,Christian,Solomon,Geological Engineering,3,christian.solomon@hotmail.com,(538) 902-2240,M,20,6.85
+535458018,Charles,Shields,Physics,2,charles.shields@abc.edu,(273) 182-4640,M,22,7.32
+770835804,Pamela,Compton,Civil Engineering,1,pamela.compton@msn.com,(392) 891-2898,F,29,8.25
+325461245,Frank,Hinton,Physics,3,frank.hinton@outlook.com,(844) 812-7469,M,25,8.29
+539286032,Andrew,Mcdonald,Astronomy,2,andrew.mcdonald@abc.edu,(903) 816-8952,M,22,6.77
+588595841,Pamela,Myers,Artificial Intelligence,4,pamela.myers@yahoo.com,(522) 361-1813,O,24,6.87
+163567842,Dorothy,Burnett,Electrical Engineering,3,dorothy.burnett@gmail.com,(570) 619-2774,F,24,8.26
+934905871,James,Weiss,Artificial Intelligence,3,james.weiss@outlook.com,(583) 956-7820,M,22,7.48
+163478094,Kelly,Warner,Data Analytics,3,kelly.warner@outlook.com,(491) 226-3284,F,27,7.37
+193789406,Peter,Mckenzie,Digital Media,3,peter.mckenzie@outlook.com,(968) 976-4528,O,21,7.62
+802142709,Willie,Bradley,Chemical Engineering,3,willie.bradley@yahoo.com,(643) 386-7723,M,23,7.68
+975011415,Ethan,Stanley,Data Science,2,ethan.stanley@hotmail.com,(880) 306-3956,M,27,7.29
+678694513,Maria,Page,Electrical Engineering,3,maria.page@abc.edu,(628) 968-5045,F,27,7.47
+820602797,Danielle,Mcmillan,Mathematics,4,danielle.mcmillan@abc.edu,(124) 563-9950,F,23,7.93
+340539512,Doris,Montes,Statistics,2,doris.montes@abc.edu,(738) 487-1328,F,24,7.62
+496835416,Angela,Duffy,Biophysics,2,angela.duffy@gmail.com,(539) 844-3313,F,24,7.6
+915714920,Joshua,Anderson,Digital Media,4,joshua.anderson@msn.com,(895) 724-4852,M,27,7.04
+736151873,Julie,Sutton,Geological Engineering,3,julie.sutton@yahoo.com,(468) 608-7964,F,26,7.73
+669703807,Jason,Cervantes,Civil Engineering,3,jason.cervantes@abc.edu,(346) 895-9035,O,24,8.45
+162604679,Jean,Petersen,Mechanical Engineering,2,jean.petersen@hotmail.com,(300) 108-1797,F,26,7.33
+629716515,Jean,Barry,Astronomy,1,jean.barry@yahoo.com,(143) 626-5585,F,24,6.28
+862415649,Lisa,Torres,Geological Engineering,2,lisa.torres@abc.edu,(961) 285-1650,F,24,8.01
+907420205,Anna,Munoz,Astronomy,3,anna.munoz@abc.edu,(178) 135-6942,F,27,7.88
+190692209,Hannah,Mata,Electrical Engineering,3,hannah.mata@abc.edu,(692) 382-4306,F,28,6.64
+158020985,Patricia,Crosby,Applied Statistics,2,patricia.crosby@msn.com,(281) 521-1217,F,25,7.4
+948159112,Aaron,Cordova,Electrical Engineering,2,aaron.cordova@gmail.com,(776) 610-6342,M,26,7.28
+947550672,Jessica,Barron,Computer Security,3,jessica.barron@abc.edu,(369) 189-9628,F,25,7.61
+779970707,Brittany,Miller,Artificial Intelligence,3,brittany.miller@abc.edu,(948) 754-7397,F,28,8.05
+165206485,Robert,Shaw,Electrical Engineering,3,robert.shaw@hotmail.com,(624) 510-8417,M,21,7.06
+795633857,David,Blevins,Electrical Engineering,3,david.blevins@abc.edu,(742) 848-8553,M,23,7.91
+489828891,Margaret,Mclaughlin,Physics,3,margaret.mclaughlin@abc.edu,(562) 805-1002,F,23,7.43
+769782294,Ronald,Williams,Computer Engineering,4,ronald.williams@gmail.com,(220) 103-2869,M,27,7.07
+343334727,Kathryn,Calderon,Artificial Intelligence,3,kathryn.calderon@msn.com,(531) 699-6529,F,26,7.67
+714770675,Kenneth,Paul,Mathematics,4,kenneth.paul@abc.edu,(948) 928-7120,O,27,7.62
+225243063,Wayne,Meza,Applied Statistics,4,wayne.meza@abc.edu,(567) 184-4476,M,23,6.82
+214714051,Sara,Mckee,Civil Engineering,3,sara.mckee@abc.edu,(495) 934-1197,F,25,7.91
+665171530,Joe,Jefferson,Electrical Engineering,2,joe.jefferson@yahoo.com,(762) 785-9293,O,23,6.93
+973968917,Billy,Sandoval,Civil Engineering,3,billy.sandoval@hotmail.com,(900) 358-1897,M,22,7.59
+226303555,Debra,Arroyo,Biophysics,3,debra.arroyo@abc.edu,(129) 190-4631,F,29,7.2
+912303007,Grace,Casey,Data Science,4,grace.casey@abc.edu,(533) 582-2280,F,25,7.29
+631075405,Barbara,Hancock,Computer Engineering,3,barbara.hancock@abc.edu,(735) 852-7201,F,23,8.21
+535123891,Kathryn,Stout,Astronomy,3,kathryn.stout@abc.edu,(469) 231-7196,F,25,7.2
+783479691,Cheryl,Mathews,Mathematics,2,cheryl.mathews@abc.edu,(581) 300-9623,F,21,7.56
+612105699,Jean,David,Astronomy,3,jean.david@abc.edu,(773) 847-3170,F,25,7.24
+879322326,Ruth,Jefferson,Computer Engineering,4,ruth.jefferson@hotmail.com,(293) 417-8350,F,25,6.79
+622498488,Mary,Powell,Astronomy,3,mary.powell@msn.com,(535) 260-5669,F,26,7.96
+319843671,Debra,Townsend,Physics,4,debra.townsend@gmail.com,(555) 200-1473,F,27,7.87
+530779059,Gloria,Gutierrez,Biophysics,3,gloria.gutierrez@yahoo.com,(681) 645-8677,F,22,7.19
+185561599,Nathan,Hart,Applied Statistics,3,nathan.hart@hotmail.com,(117) 795-9675,M,27,7.16
+317938654,Bobby,Moody,Geological Engineering,2,bobby.moody@hotmail.com,(466) 675-3745,M,23,7.03
+394220651,Billy,Dunn,Astronomy,3,billy.dunn@msn.com,(566) 166-1206,M,24,7.4
+584060710,Stephanie,Porter,Computer Engineering,1,stephanie.porter@abc.edu,(620) 556-6478,F,30,7.1
+575132469,Eugene,Nicholson,Applied Statistics,3,eugene.nicholson@abc.edu,(129) 527-7423,M,21,7.36
+661514127,Rachel,Moyer,Chemical Engineering,4,rachel.moyer@yahoo.com,(211) 362-3860,F,21,8.27
+423948781,Scott,Truong,Computer Science,3,scott.truong@abc.edu,(266) 859-8694,O,26,7.92
+292893312,Albert,Proctor,Computer Security,3,albert.proctor@abc.edu,(214) 992-6318,M,27,7.82
+522525118,Stephanie,Carrillo,Chemical Engineering,3,stephanie.carrillo@gmail.com,(187) 988-9571,O,26,7.03
+136277515,Nicholas,Morton,Statistics,2,nicholas.morton@gmail.com,(924) 122-5068,M,20,8.02
+246729927,Lawrence,Buchanan,Digital Media,3,lawrence.buchanan@abc.edu,(393) 535-2408,M,21,7.92
+938356677,Olivia,George,Mathematics,2,olivia.george@hotmail.com,(879) 254-3619,F,22,6.53
+222993327,Shirley,Sierra,Software Development,4,shirley.sierra@abc.edu,(174) 469-1329,F,26,8.16
+260171796,Pamela,Mckenzie,Mechanical Engineering,2,pamela.mckenzie@hotmail.com,(153) 965-2732,F,20,7.67
+612775063,Laura,Vaughan,Applied Mathematics,4,laura.vaughan@abc.edu,(964) 916-1349,F,21,8.18
+931534438,Lisa,Haynes,Applied Mathematics,3,lisa.haynes@msn.com,(493) 830-4083,F,28,7.37
+681934957,Henry,Mays,Mathematics,2,henry.mays@abc.edu,(887) 564-3517,M,27,7.57
+158698329,Gerald,Zuniga,Applied Statistics,2,gerald.zuniga@yahoo.com,(382) 717-8233,M,24,7.99
+365194970,Aaron,Wise,Biophysics,2,aaron.wise@abc.edu,(853) 915-2548,M,29,7.49
+309441098,Grace,Carter,Artificial Intelligence,3,grace.carter@abc.edu,(747) 302-4902,F,27,7.2
+157333428,Emma,Richardson,Biophysics,2,emma.richardson@abc.edu,(509) 100-4841,F,24,7.11
