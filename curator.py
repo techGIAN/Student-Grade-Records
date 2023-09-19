@@ -15,6 +15,13 @@ programs_file = './meta_data/programs.txt'
 year_level_probs = [0.06, 0.21, 0.59, 0.14] # arbitrary
 email_domains_file = './meta_data/email_domains.txt'
 demographic_filename = './data/demographic.csv'
+mean_a1, std_a1 = 12.0, 1.0
+mean_a2, std_a2 = 20.5, 1.5
+mean_a3, std_a3 = 14.0, 2.0
+mean_a4, std_a4 = 15.0, 3.0
+mean_mid, std_mid = 27.0, 5.0
+mean_fin, std_fin = 50.0, 12.0
+
 
 # randomize ids
 ids = np.random.randint(min_id, max_id, size=(n_students,))
@@ -99,4 +106,26 @@ df = pd.DataFrame({
 })
 
 df.to_csv(demographic_filename, index=None)
+
+# curate term scores
+a1s = list(np.random.normal(mean_a1, std_a1, size=(n_students,)))
+a1s = [round(a) for a in a1s]
+a2s = list(np.random.normal(mean_a2, std_a2, size=(n_students,)))
+a2s = [round(a) for a in a2s]
+a3s = list(np.random.normal(mean_a3, std_a3, size=(n_students,)))
+a3s = [round(a) for a in a3s]
+a4s = list(np.random.normal(mean_a4, std_a4, size=(n_students,)))
+a4s = [round(a) for a in a4s]
+mids = list(np.random.normal(mean_mid, std_mid, size=(n_students,)))
+mids = [round(a) for a in mids]
+fins = list(np.random.normal(mean_fin, std_fin, size=(n_students,)))
+fins = [round(a) for a in fins]
+
+for x, y in zip([a1s, a2s, a3s, a4s, mids, fins], ['a1', 'a2', 'a3', 'a4', 'midterm', 'final_exam']):
+    df = pd.DataFrame({
+        'student_id': ids,
+        'raw' : x
+    })
+    df.to_csv('./data/' + y + '_scores.csv', index=None)
+
 print('Success! The data has been curated.')
