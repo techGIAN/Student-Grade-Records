@@ -27,5 +27,31 @@ Displays the student's id's and their raw scores for each assessment.
 * ```student_id```: Student ids based on the submitted ids of students in their demographic profile.
 * ```raw```: The raw score achieved by the student. ```A1``` is out of ```15```, ```A2``` is out of ```25```, ```A3``` is out of ```20```, ```A4``` is out of ```30```, the ```midterm``` is out of ```45```, and the ```final_exam``` is out of ```100```. For simplicity, all numbers are randomly generated and follows a normal distribution with arbitrary mean and standard deviation values.
 
+## Running the Scripts
+Firstly, you want to generate the datasets (you can generate your own if the provided one does not suit your needs). The parameters can also be changed in ```curator.py``` before running the script.
+```
+python curator.py
+```
+
+Once the dataset is generated, load up the MySQL server as follows:
+```
+/usr/local/mysql/bin/mysql -u root -p --local-infile
+```
+
+Ensure that the database used is set:
+```
+USE database_name; 
+```
+
+Create the tables based on the dataset generated:
+```
+source schema.sql
+```
+
+Then run the query, where ```X``` is the query number:
+```
+source queries/queryX.sql
+```
+
 ## Questions and Answers
 Here are the sample questions a teacher can ask, query it using SQL, and the corresponding answers. Please find the SQL codes of the following within the ```./queries/``` directory. The query of each is found in ```./queries/qX.sql``` file, where ```X``` is the query number.
