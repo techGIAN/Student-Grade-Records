@@ -12,7 +12,15 @@ The datasets have been curated using the ```curator.py``` file. All datasets are
 ### Demographic
 Consists of the demographic profiles of students submitted by them to the teacher on Day 1.
 * ```student_id```: A 9-digit randomly generated int (uniformly distributed between ```[100000000, 999999999]```. 
-* ...
+* ```first_name```: Student's first name; randomly generated from [https://www.ssa.gov/oact/babynames/decades/century.html](https://www.ssa.gov/oact/babynames/decades/century.html) - uniform distribution
+* ```last_name```: Student's first name; randomly generated from [https://namecensus.com/last-names/](https://namecensus.com/last-names/) - uniform distribution
+* ```program```: Student's program; randomly generated from ```['Computer Science', 'Computer Engineering', 'Electrical Engineering', 'Data Science', 'Artificial Intelligence', 'Computer Security', 'Digital Media', 'Mathematics', 'Applied Mathematics', 'Statistics', 'Applied Statistics', 'Software Development', 'Data Analytics', 'Physics', 'Biophysics', 'Chemical Engineering', 'Civil Engineering', 'Mechanical Engineering', 'Astronomy', 'Geological Engineering']``` (these are just some of the most common STEM-related programs related with tech, IT and computer sciences that I am aware of) - uniform distribution
+* ```year_level```: Values coming from year level ```[1,2,3,4]``` with the following probability distribution: ```[6%, 21%, 59%, 14%]``` and this is arbitrarily set
+* ```email```: A concatenation of first and last names (in lower cases), separated by a ```.``` and then affix a ```@[domain]``` where the ```domain``` could either be one of ```[gmail.com, hotmail.com, msn.com, yahoo.com, outlook.com, abc.edu]``` (the name of the school is University of ABC.
+* ```phone_num```: Randomly generated and uses the format ```(XYZ) TUV-PQRS```
+* ```gender```: Random with ```M``` for male, ```F``` for female and ```O``` for other (e.g., non-binary, not specified, etc.)
+* ```age```: Follows a normal distribution between ```[18, 30]```
+* ```cgpa```: Cumulative GPA, also follows a normal distribution
 
 ### Assignments and Tests
 Displays the student's id's and their raw scores for each assessment.
