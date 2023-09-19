@@ -1,4 +1,4 @@
--- Query 1:
+-- Query 2:
 -- The first assignment has just been marked by the TA. You would like to display the assignment results to the class
 -- according to the following schema:
 -- (student_id, name, a1_score)
