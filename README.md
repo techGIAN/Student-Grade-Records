@@ -35,8 +35,9 @@ python curator.py
 
 Once the dataset is generated, load up the MySQL server as follows:
 ```
-/usr/local/mysql/bin/mysql -u root -p --local-infile
+/usr/local/mysql/bin/mysql -u root -p --local-infile -s --table
 ```
+where ```-u``` refers to the ```username```, ```-p``` for ```password```, ```--local-infile``` allows for reading files locally, ```-s``` is for silencing messages such as ```Query ok, X rows affected (0.00 sec)```, and ```--table``` allows to display query results pretty-printed as a table. Note that the last flag is important as ```-s``` will disable pretty-printing, so it is important that we combine it with ```--table``` to retain table display while suppressing the unnecessary messages.
 
 Ensure that the database used is set:
 ```
@@ -55,3 +56,6 @@ source queries/queryX.sql
 
 ## Questions and Answers
 Here are the sample questions a teacher can ask, query it using SQL, and the corresponding answers. Please find the SQL codes of the following within the ```./queries/``` directory. The query of each is found in ```./queries/qX.sql``` file, where ```X``` is the query number.
+
+Q1. The teacher would like to gain some preliminary statistics about the class demographics. They would like to obtain 5 different tables. The first three would simply be a two-column table where the first one is either ```[program_name, year, gender]``` and the second column is ```count```. The fourth table is the same except that the first column is ```age``` and is instead bracketed using 4 bins. Finally, the fifth table is a 5-column table with columns ```[mean, median, min, max, range]``` that only has 1 row that depicts the statistic for the class ```cgpa```. Sort the results as follows: (T1) by count descending, (T2) by year ascending, (T3) according to ```[M,F,O]```, (T4) by age, (T5) by CGPA.
+
