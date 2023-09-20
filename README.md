@@ -57,5 +57,81 @@ source queries/queryX.sql
 ## Questions and Answers
 Here are the sample questions a teacher can ask, query it using SQL, and the corresponding answers. Please find the SQL codes of the following within the ```./queries/``` directory. The query of each is found in ```./queries/qX.sql``` file, where ```X``` is the query number.
 
-Q1. The teacher would like to gain some preliminary statistics about the class demographics. They would like to obtain 5 different tables. The first three would simply be a two-column table where the first one is either ```[program_name, year, gender]``` and the second column is ```count```. The fourth table is the same except that the first column is ```age``` and is instead bracketed using 4 bins. Finally, the fifth table is a 5-column table with columns ```[mean, median, min, max, range]``` that only has 1 row that depicts the statistic for the class ```cgpa```. Sort the results as follows: (T1) by count descending, (T2) by year ascending, (T3) according to ```[M,F,O]```, (T4) by age, (T5) by CGPA.
+Q1. The teacher would like to gain some preliminary statistics about the class demographics. They would like to obtain 5 different tables. The first three would simply be a two-column table where the first one is either ```[program_name, year, gender]``` and the second column is ```count```. The fourth table is the same except that the first column is ```age``` and is instead bracketed using 4 bins. Finally, the fifth table is a 5-column table with columns ```[mean, median, min, max, range]``` that only has 1 row that depicts the statistic for the class ```cgpa```. Sort the results as follows: (T1) by count descending, (T2) by year ascending, (T3) according to ```[M,F,O]```, (T4) by age, (T5) by CGPA. Here are the results:
+```
+-- T1
++-------------------------+-------+
+| program                 | count |
++-------------------------+-------+
+| Computer Science        |    17 |
+| Computer Engineering    |    17 |
+| Astronomy               |    16 |
+| Electrical Engineering  |    16 |
+| Mechanical Engineering  |    15 |
+| Applied Statistics      |    15 |
+| Artificial Intelligence |    14 |
+| Software Development    |    13 |
+| Physics                 |    13 |
+| Digital Media           |    13 |
++-------------------------+-------+
+10 rows in set (0.00 sec)
 
+-- T2
++------+-------+
+| year | count |
++------+-------+
+|    1 |    15 |
+|    2 |    59 |
+|    3 |   138 |
+|    4 |    38 |
++------+-------+
+4 rows in set (0.00 sec)
+
+-- T3
++--------+-------+
+| gender | count |
++--------+-------+
+| M      |   113 |
+| F      |   112 |
+| O      |    25 |
++--------+-------+
+3 rows in set (0.00 sec)
+
+-- T4
++---------------+-------+
+| age           | count |
++---------------+-------+
+| [18,19,20]    |    23 |
+| [21,22,23]    |    79 |
+| [24,25,26]    |    94 |
+| [27,28,29,30] |    54 |
++---------------+-------+
+4 rows in set (0.00 sec)
+
+-- T5
++------+--------+------+------+-------+
+| mean | median | min  | max  | range |
++------+--------+------+------+-------+
+| 7.48 | 7.58   | 5.80 | 8.93 | 3.13  |
++------+--------+------+------+-------+
+1 row in set (0.00 sec)
+```
+
+Q2. The first assignment has just been marked by the TA. You would like to display the assignment results to the class according to the following schema: ```(student_id, name, a1_score)```, where ```name``` is the concatenation of the student's first and last name separated by a space, ```a1_score``` is the percentage score of the student for ```a1``` (out of 15). To make it more convenient and much easier for students to look up their name, you display the results arranged chronologically by last name. Here is the sample output for the first 10 records:
+```
++------------+--------------------+----------+
+| student_id | name               | a1_score |
++------------+--------------------+----------+
+|  611481869 | Sandra Acosta      | 73.33%   |
+|  201254718 | Danielle Alexander | 86.67%   |
+|  877197653 | Logan Alexander    | 93.33%   |
+|  383230831 | Carol Ali          | 80.00%   |
+|  915714920 | Joshua Anderson    | 73.33%   |
+|  226303555 | Debra Arroyo       | 86.67%   |
+|  750002093 | Andrea Arroyo      | 73.33%   |
+|  276936575 | Theresa Atkinson   | 73.33%   |
+|  677974469 | Doris Avalos       | 80.00%   |
+|  996675949 | Jose Avery         | 86.67%   |
++------------+--------------------+----------+
+10 rows in set (0.00 sec)
+```
