@@ -135,3 +135,79 @@ Q2. The first assignment has just been marked by the TA. You would like to displ
 +------------+--------------------+----------+
 10 rows in set (0.00 sec)
 ```
+
+Q3. The TA has finished marking the second assignment (out of 25). Compute the pre-term marks of each student. This is basically the mean of the first two assignments that are equally weighted. The schema should be ```(student_id, a1_score, a2_score, pre_term)```. Note that we do not need to include the name to maintain anonymity in class. The results will be released to the class, but only the ones who are in the "failing", i.e., have a pre-term score of less than 78% (because the class is high standard) should be displayed so as to give these students a heads up that they really need to study and prepare for the upcoming midterm test. Sort the results by ```student_id``` number so students can easily find whether they have to exert the extra effort for the coming midterm test.
+```
++------------+----------+----------+----------+
+| student_id | a1_score | a2_score | pre_term |
++------------+----------+----------+----------+
+|  110019694 | 73.33%   | 80.00%   | 76.66%   |
+|  112585242 | 73.33%   | 80.00%   | 76.66%   |
+|  147105252 | 73.33%   | 76.00%   | 74.66%   |
+|  158020985 | 73.33%   | 76.00%   | 74.66%   |
+|  164357426 | 73.33%   | 80.00%   | 76.66%   |
+|  165749503 | 66.67%   | 80.00%   | 73.34%   |
+|  221778646 | 73.33%   | 76.00%   | 74.66%   |
+|  224419444 | 73.33%   | 68.00%   | 70.66%   |
+|  225243063 | 66.67%   | 80.00%   | 73.34%   |
+|  226851210 | 66.67%   | 80.00%   | 73.34%   |
++------------+----------+----------+----------+
+10 rows in set (0.00 sec)
+```
+
+Q4. The midterm results have arrived and you would like to display students' midterm marks (out of 45). You would like to give feedback as well, based on the computed midterm_grade. If less than 60%, output "Needs Improvement"; if more than or equal to 80%, output "Keep It Up", and otherwise "Good Enough". Since each assignment has an overall grade weight of 5% and the midterm is worth 30%, then the current ```midterm_grade``` is calculated by weighing each assignment as 12.5% each and the midterm test to be worth 75%. This should be the schema: ```(student_id, a1_score, a2_score, midterm_score, midterm_grade, feedback)```. Then sort by ```student_id```.
+```
++------------+----------+----------+---------------+---------------+-------------------+
+| student_id | a1_score | a2_score | midterm_score | midterm_grade | feedback          |
++------------+----------+----------+---------------+---------------+-------------------+
+|  105492788 | 86.67%   | 92.00%   | 51.11%        | 60.67%        | Good Enough       |
+|  110019694 | 73.33%   | 80.00%   | 28.89%        | 40.83%        | Needs Improvement |
+|  112585242 | 73.33%   | 80.00%   | 77.78%        | 77.50%        | Good Enough       |
+|  112933422 | 80.00%   | 84.00%   | 60.00%        | 65.50%        | Good Enough       |
+|  115837634 | 73.33%   | 84.00%   | 44.44%        | 53.00%        | Needs Improvement |
+|  121026116 | 73.33%   | 84.00%   | 40.00%        | 49.67%        | Needs Improvement |
+|  124681830 | 86.67%   | 92.00%   | 57.78%        | 65.67%        | Good Enough       |
+|  124973030 | 80.00%   | 84.00%   | 73.33%        | 75.50%        | Good Enough       |
+|  135822943 | 73.33%   | 84.00%   | 68.89%        | 71.33%        | Good Enough       |
+|  136277515 | 80.00%   | 88.00%   | 73.33%        | 76.00%        | Good Enough       |
++------------+----------+----------+---------------+---------------+-------------------+
+10 rows in set (0.00 sec)
+```
+
+Q5. The TAs happened to be pretty quick about marking A3 and A4 that A4 has already been finished as soon as A3 was also finished. Seems like A3 lagged but A4 was really fast in terms of marking. Anyways, we will display those two additional columns (out of 20 and 30 respectively) into our result from Query 4. However, we will not display the ```midterm_grade``` and ```feedback columns``` as those information are only relevant during the midterm time of the course. But what instead we need to show aside from A3 and A4 scores is that how much points each student needs in the coming final exam in order to pass the course. We are letting students know that the exam is out of 100. To pass the course, the students must achieve an overall grade of 80%. If the student will pass the course regardless of whether they write the exam or not, then output ```0```. If the student has no hope of passing regardless of their score in the exam, output ```-1```. This will help the teacher know if how many students will have a ```-1```, which means that the teacher will likely give an extra credit homework to boost their grades and help them not to fail the course.
+```
++------------+----------+----------+---------------+----------+----------+-----------------+
+| student_id | a1_score | a2_score | midterm_score | a3_score | a4_score | points_required |
++------------+----------+----------+---------------+----------+----------+-----------------+
+|  105492788 | 86.67%   | 92.00%   | 51.11%        | 75.00%   | 66.67%   |              98 |
+|  110019694 | 73.33%   | 80.00%   | 28.89%        | 80.00%   | 63.33%   |              -1 |
+|  112585242 | 73.33%   | 80.00%   | 77.78%        | 80.00%   | 50.00%   |              85 |
+|  112933422 | 80.00%   | 84.00%   | 60.00%        | 65.00%   | 46.67%   |              97 |
+|  115837634 | 73.33%   | 84.00%   | 44.44%        | 85.00%   | 53.33%   |              -1 |
+|  121026116 | 73.33%   | 84.00%   | 40.00%        | 65.00%   | 43.33%   |              -1 |
+|  124681830 | 86.67%   | 92.00%   | 57.78%        | 60.00%   | 46.67%   |              97 |
+|  124973030 | 80.00%   | 84.00%   | 73.33%        | 75.00%   | 30.00%   |              90 |
+|  135822943 | 73.33%   | 84.00%   | 68.89%        | 60.00%   | 53.33%   |              92 |
+|  136277515 | 80.00%   | 88.00%   | 73.33%        | 55.00%   | 66.67%   |              88 |
++------------+----------+----------+---------------+----------+----------+-----------------+
+10 rows in set (0.00 sec)
+```
+
+Q6. The final exam is done and has now been marked. Now often, we do not release final exam grades and instead just the final grade. We will do the same but this time sort it by final grade from highest to lowest to reveal the top students. Use the schema ```(name, final_grade)```. Note that the final exam is worth 50% of the overall grade.
+```
++--------------------+-------------+
+| name               | final_grade |
++--------------------+-------------+
+| Linda Prince       | 73.55%      |
+| Victoria Campbell  | 73.25%      |
+| Gregory Mayer      | 73.07%      |
+| Douglas Bennett    | 72.67%      |
+| Doris Perry        | 72.20%      |
+| Joe Jefferson      | 71.57%      |
+| Stephanie Santiago | 70.00%      |
+| Kelly Kerr         | 69.98%      |
+| Virginia Sanchez   | 69.88%      |
+| Donald Harrison    | 69.83%      |
++--------------------+-------------+
+10 rows in set (0.00 sec)
+```
