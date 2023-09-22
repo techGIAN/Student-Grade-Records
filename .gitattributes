@@ -1,0 +1,2 @@
+*.sql linguist-detectable
+queries/*.sql linguist-detectable
